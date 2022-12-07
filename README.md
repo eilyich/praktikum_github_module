@@ -10,3 +10,10 @@
 - sklearn
 - seaborn
 - tqdm
+- optuna
+
+Используемые модели:
+LogisticRegression, DecissionTreeClassifier, RandomForestClassifier
+Модель, подготовленная для продуктивной классификации - RandomForestClassifier
+
+Измеренная точность прогноза оттока клиентов: ~65%  
